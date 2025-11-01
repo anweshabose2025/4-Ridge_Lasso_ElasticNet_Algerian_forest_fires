@@ -1,2 +1,2 @@
 # 4-Ridge_Lasso_ElasticNet_Algerian_forest_fires
-Algerian Forest Fires
+Algerian Forest Fires Prediction
